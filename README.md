@@ -1,7 +1,7 @@
 # Xin chào 👋, mình là Nguyễn Minh Đức
 
 ## 🚀 Giới thiệu
-- 🔭 Mình là lập trình viên **Fullstack Engineer**, đồng thời là **Admin** của **Wedding For You - https://wedding4u.online | Nền tảng tạo Landing Page cưới**
+<!-- - 🔭 Mình là lập trình viên **Fullstack Engineer**, đồng thời là **Admin** của **Wedding For You - https://wedding4u.online | Nền tảng tạo Landing Page cưới** -->
 - 🌱 Hiện đang làm việc với **Clean Architecture, Flutter Mobile, Golang, gRPC, GraphQL**
 - 👯 Muốn hợp tác trên **các dự án Open Source Web & Mobile**
 - 🤔 Cần sự trợ giúp về **Thiết kế Mobile, Backend mở rộng & CI/CD**
