@@ -22,7 +22,9 @@
 
 ![Thống kê GitHub của Đức](https://github-readme-stats.vercel.app/api?username=duc2407&show_icons=true&theme=radical)
 ![Ngôn ngữ yêu thích](https://github-readme-stats.vercel.app/api/top-langs/?username=duc2407&layout=compact&theme=radical)
-![Radar Chart](https://quickchart.io/chart?c={type:'radar',data:{labels:['Commits','PR','Issues','Code review'],datasets:[{label:'Activity',data:[86,12,86,2]}]}})
+
+![Radar Chart](https://quickchart.io/chart?c=%7Btype:'radar',data:%7Blabels:['Commits','PR','Issues','Code review'],datasets:[{label:'Activity',data:[86,12,86,2]}]%7D%7D)
+
 ---
 
 ## ✨ Tỉ lệ Review Code
