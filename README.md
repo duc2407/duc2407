@@ -1,22 +1,32 @@
 # Xin chào 👋, mình là Nguyễn Đức
 
 ## 🚀 Giới thiệu
-- 🔭 Mình là lập trình viên fullstack enginer, đồng thời là **admin** của **Wedding For You wedding4u.online | Nền tảng tạo Landing Page cưới**
-- 🌱 Hiện mình đang làm việc với **Clean Architecture, Flutter Mobile, Golang, GRPC, GraphQL**
+- 🔭 Mình là lập trình viên **Fullstack Engineer**, đồng thời là **Admin** của **Wedding For You (wedding4u.online) | Nền tảng tạo Landing Page cưới**
+- 🌱 Hiện đang làm việc với **Clean Architecture, Flutter Mobile, Golang, gRPC, GraphQL**
 - 👯 Muốn hợp tác trên **các dự án Open Source Web & Mobile**
 - 🤔 Cần sự trợ giúp về **Thiết kế Mobile, Backend mở rộng & CI/CD**
 - 💬 Hỏi mình về **Flutter, Golang, MySQL, PostgreSQL**
 - 💬 Design **UI/UX với Figma**
-- 📫 Liên hệ: [Email](mailto:ducdev.contact@gmail.com)| [Facebook](https://facebook.com/ducit247)
+- 📫 Liên hệ: [Email](mailto:ducdev.contact@gmail.com) | [Facebook](https://facebook.com/ducit247)
 - ⚡ Fun fact: Mình thích tạo UI gọn gàng theo phong cách **neumorphism** 🖌️
 
 ---
 
 ## 📊 Thống kê GitHub
 
-<!-- GitHub stats cards -->
 ![Thống kê GitHub của Đức](https://github-readme-stats.vercel.app/api?username=duc2407&show_icons=true&theme=radical)
 ![Ngôn ngữ yêu thích](https://github-readme-stats.vercel.app/api/top-langs/?username=duc2407&layout=compact&theme=radical)
+
+---
+
+## ✨ Tỉ lệ Review Code
+Dưới đây là minh họa tỉ lệ **Code Reviews** bạn đã thực hiện hoặc nhận được.  
+Bạn có thể chỉnh số liệu % để thể hiện đúng thực tế:
+
+![Review Code](https://img.shields.io/badge/Code_Reviewed-75%25-brightgreen)
+![Pending Review](https://img.shields.io/badge/Pending_Review-25%25-yellow)
+
+> Mục tiêu: Luôn cải thiện code quality và nhận phản hồi từ cộng đồng. 📝
 
 ---
 
