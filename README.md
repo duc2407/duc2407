@@ -27,8 +27,8 @@
 
 ## ✨ Tỉ lệ Review Code
 
-![Review Code](https://img.shields.io/badge/Code_Reviewed-55%45-brightgreen)
-![Pending Review](https://img.shields.io/badge/Pending_Review-45%55-yellow)
+![Review Code](https://img.shields.io/badge/Code_Reviewed-75%25-brightgreen)
+![Pending Review](https://img.shields.io/badge/Pending_Review-25%25-yellow)
 
 > Mục tiêu: Luôn cải thiện code quality và nhận phản hồi từ cộng đồng. 📝
 
