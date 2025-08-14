@@ -9,9 +9,15 @@
 - 💬 Design **UI/UX với Figma**
 - 📫 Liên hệ: [Email](mailto:ducdev.contact@gmail.com) | [Facebook](https://facebook.com/ducit247)
 - ⚡ Fun fact: Mình thích tạo UI gọn gàng theo phong cách **neumorphism** 🖌️
-
 ---
 
+## 🛠️ Công nghệ sử dụng
+**Frontend:** Flutter, React, HTML/CSS  
+**Backend:** Golang, Node.js, GraphQL, REST API  
+**Database:** MySQL, PostgreSQL  
+**DevOps:** Docker, Railway, Supabase, CI/CD  
+
+---
 ## 📊 Thống kê GitHub
 
 ![Thống kê GitHub của Đức](https://github-readme-stats.vercel.app/api?username=duc2407&show_icons=true&theme=radical)
@@ -20,21 +26,11 @@
 ---
 
 ## ✨ Tỉ lệ Review Code
-Dưới đây là minh họa tỉ lệ **Code Reviews** bạn đã thực hiện hoặc nhận được.  
-Bạn có thể chỉnh số liệu % để thể hiện đúng thực tế:
 
-![Review Code](https://img.shields.io/badge/Code_Reviewed-75%25-brightgreen)
-![Pending Review](https://img.shields.io/badge/Pending_Review-25%25-yellow)
+![Review Code](https://img.shields.io/badge/Code_Reviewed-55%45-brightgreen)
+![Pending Review](https://img.shields.io/badge/Pending_Review-45%55-yellow)
 
 > Mục tiêu: Luôn cải thiện code quality và nhận phản hồi từ cộng đồng. 📝
-
----
-
-## 🛠️ Công nghệ sử dụng
-**Frontend:** Flutter, React, HTML/CSS  
-**Backend:** Golang, Node.js, GraphQL, REST API  
-**Database:** MySQL, PostgreSQL  
-**DevOps:** Docker, Railway, Supabase, CI/CD  
 
 ---
 
