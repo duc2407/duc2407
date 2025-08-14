@@ -22,7 +22,7 @@
 
 ![Thống kê GitHub của Đức](https://github-readme-stats.vercel.app/api?username=duc2407&show_icons=true&theme=radical)
 ![Ngôn ngữ yêu thích](https://github-readme-stats.vercel.app/api/top-langs/?username=duc2407&layout=compact&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duc2407&show_icons=true&theme=radical)
 ---
 
 ## ✨ Tỉ lệ Review Code
