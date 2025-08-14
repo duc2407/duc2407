@@ -1,21 +1,21 @@
-# Xin chào 👋, mình là Nguyễn Đức
+# Xin chào 👋, mình là Nguyễn Minh Đức
 
 ## 🚀 Giới thiệu
-- 🔭 Mình là lập trình viên **Fullstack Engineer**, đồng thời là **Admin** của **Wedding For You (wedding4u.online) | Nền tảng tạo Landing Page cưới**
+- 🔭 Mình là lập trình viên **Fullstack Engineer**, đồng thời là **Admin** của **Wedding For You - https://wedding4u.online | Nền tảng tạo Landing Page cưới**
 - 🌱 Hiện đang làm việc với **Clean Architecture, Flutter Mobile, Golang, gRPC, GraphQL**
 - 👯 Muốn hợp tác trên **các dự án Open Source Web & Mobile**
 - 🤔 Cần sự trợ giúp về **Thiết kế Mobile, Backend mở rộng & CI/CD**
 - 💬 Hỏi mình về **Flutter, Golang, MySQL, PostgreSQL**
-- 💬 Design **UI/UX với Figma**
+- ✨ Design **UI/UX với Figma**
 - 📫 Liên hệ: [Email](mailto:ducdev.contact@gmail.com) | [Facebook](https://facebook.com/ducit247)
 - ⚡ Fun fact: Mình thích tạo UI gọn gàng theo phong cách **neumorphism** 🖌️
 ---
 
 ## 🛠️ Công nghệ sử dụng
-**Frontend:** Flutter, React, HTML/CSS  
-**Backend:** Golang, Node.js, GraphQL, REST API  
-**Database:** MySQL, PostgreSQL  
-**DevOps:** Docker, Railway, Supabase, CI/CD  
+**Frontend:** Flutter, ReactJs, HTML/CSS,...  
+**Backend:** Golang, GraphQL, REST API, Node.js, ExpressJs... 
+**Database:** MySQL, PostgreSQL, MongoDB,...  
+**DevOps:** CI/CD, Docker, Railway, Supabase,...
 
 ---
 ## 📊 Thống kê GitHub
@@ -41,4 +41,4 @@
 
 ---
 
-> “Học chưa bao giờ là đủ” – Giáo Tiến FPT
+> “Học chưa bao giờ là đủ” – Giáo Tiến
