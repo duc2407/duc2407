@@ -23,7 +23,8 @@
 ![Thống kê GitHub của Đức](https://github-readme-stats.vercel.app/api?username=duc2407&show_icons=true&theme=radical)
 ![Ngôn ngữ yêu thích](https://github-readme-stats.vercel.app/api/top-langs/?username=duc2407&layout=compact&theme=radical)
 
-![Radar Chart](https://quickchart.io/chart?c=%7Btype:'radar',data:%7Blabels:['Commits','PR','Issues','Code review'],datasets:[{label:'Activity',data:[86,12,86,2]}]%7D%7D)
+![Radar Chart](https://quickchart.io/chart?c=%7Btype%3A'radar'%2Cdata%3A%7Blabels%3A%5B'Commits'%2C'PR'%2C'Issues'%2C'Code%20review'%5D%2Cdatasets%3A%5B%7Blabel%3A'Activity'%2Cdata%3A%5B86%2C12%2C86%2C2%5D%7D%5D%7D%7D)
+
 
 ---
 
