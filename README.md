@@ -2,12 +2,14 @@
 
 ## 🚀 Giới thiệu
 <!-- - 🔭 Mình là lập trình viên **Fullstack Engineer**, đồng thời là **Admin** của **Wedding For You - https://wedding4u.online | Nền tảng tạo Landing Page cưới** -->
-- 🌱 Hiện đang làm việc với **Clean Architecture, Flutter Mobile, Golang, gRPC, GraphQL**
+- 🌱 Hiện đang làm việc với **Clean Architecture, Flutter Mobile, NextJs, Golang, gRPC, GraphQL**
 - 👯 Muốn hợp tác trên **các dự án Open Source Web & Mobile**
 - 🤔 Cần sự trợ giúp về **Thiết kế Mobile, Backend mở rộng & CI/CD**
 - 💬 Hỏi mình về **Flutter, Golang, MySQL, PostgreSQL**
 - ✨ Design **UI/UX với Figma**
 - 📫 Liên hệ: [Email](mailto:ducdev.contact@gmail.com) | [Facebook](https://facebook.com/ducit247)
+- Thiệp cưới online: http://wedding4u.online
+- Services: https://technovacore.vn - email: info@technovacore.vn 
 - ⚡ Fun fact: Mình thích tạo UI gọn gàng theo phong cách **neumorphism** 🖌️
 ---
 
