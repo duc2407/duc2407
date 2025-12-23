@@ -25,16 +25,6 @@
 ![Thống kê GitHub của Đức](https://github-readme-stats.vercel.app/api?username=duc2407&show_icons=true&theme=radical)
 
 ---
-
-## ✨ Tỉ lệ Review Code
-
-![Review Code](https://img.shields.io/badge/Code_Reviewed-75%25-brightgreen)
-![Pending Review](https://img.shields.io/badge/Pending_Review-25%25-yellow)
-
-> Mục tiêu: Luôn cải thiện code quality và nhận phản hồi từ cộng đồng. 📝
-
----
-
 ## 🌐 Kết nối với mình
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/ducit247)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ducdev.contact@gmail.com)  
