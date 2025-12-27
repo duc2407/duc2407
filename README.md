@@ -31,4 +31,4 @@
 
 ---
 
-> “Học chưa bao giờ là đủ” – Giáo Tiến
+> “Học chưa bao giờ là đủ” – Giáo Tiến.
