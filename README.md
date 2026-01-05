@@ -18,12 +18,7 @@
 **Backend:** Golang, GraphQL, REST API, Node.js, ExpressJs...   
 **Database:** MySQL, PostgreSQL, MongoDB,...  
 **DevOps:** K8S, CI/CD, Docker, Railway, Supabase,...
-<!--
----
-## 📊 Thống kê GitHub
 
-![Thống kê GitHub của Đức](https://github-readme-stats.vercel.app/api?username=duc2407&show_icons=true&theme=radical)
--->
 ---
 ## 🌐 Kết nối với mình
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/ducit247)  
