@@ -25,4 +25,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ducdev.contact@gmail.com)  
 ---
 
-> “Học chưa bao giờ là đủ” – Giáo Tiến.
+> “Học chưa bao giờ là đủ” – Giáo Tiến
