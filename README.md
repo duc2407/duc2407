@@ -1,5 +1,5 @@
 # Xin chào 👋, mình là Nguyễn Minh Đức
-<!-- - 🔭 Mình là lập trình viên **Fullstack Engineer**, đồng thời là **Admin** của **Wedding For You - https://wedding4u.online | Nền tảng tạo Landing Page cưới** -->
+
 ## 🚀 Giới thiệu
 - 🌱 Hiện đang mình làm việc với **Clean Architecture, Flutter Mobile, ReactJs, NextJs, Golang, gRPC, GraphQL, MySQL, PostgreSQL**
 - 👯 Muốn hợp tác trên **các dự án Open Source Web & Mobile**
@@ -23,5 +23,5 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/ducit247)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ducdev.contact@gmail.com)  
 ---
-
+<!-- - 🔭 Mình là lập trình viên **Fullstack Engineer**, đồng thời là **Admin** của **Wedding For You - https://wedding4u.online | Nền tảng tạo Landing Page cưới** -->
 > “Học chưa bao giờ là đủ” – Giáo Tiến
