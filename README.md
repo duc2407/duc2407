@@ -19,7 +19,6 @@
 **Database:** MySQL, PostgreSQL, MongoDB,...  
 **DevOps:** K8S, CI/CD, Docker, Railway, Supabase,...
 
-
 ---
 ## 🌐 Kết nối với mình
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/ducit247)  
