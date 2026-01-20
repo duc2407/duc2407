@@ -25,4 +25,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ducdev.contact@gmail.com)  
 ---
 > “Học chưa bao giờ là đủ” – Giáo Tiến
-<!-- - 🔭 Mình là lập trình viên **Fullstack Engineer**, đồng thời là **Admin** của **Wedding For You - https://wedding4u.online | Nền tảng tạo Landing Page cưới** -->
+
