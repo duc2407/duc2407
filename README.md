@@ -12,12 +12,14 @@
 - Services: https://technovacore.vn - email: info@technovacore.vn 
 - ⚡ Fun fact: Mình thích tạo UI gọn gàng theo phong cách **neumorphism**  🖌️
 ---
+<!-- 🔭 Mình là lập trình viên **Fullstack Engineer**, đồng thời là **Admin** của **Wedding For You - https://wedding4u.online | Nền tảng tạo Landing Page cưới** -->
 
 ## 🛠️ Công nghệ sử dụng
 **Frontend:** Flutter, ReactJs, NextJs HTML/CSS,...  
 **Backend:** Golang, GraphQL, REST API, Node.js, ExpressJs...   
 **Database:** MySQL, PostgreSQL, MongoDB,...  
 **DevOps:** K8S, CI/CD, Docker, Railway, Supabase,...
+<!-- 🔭 Mình là lập trình viên **Fullstack Engineer**, đồng thời là **Admin** của **Wedding For You - https://wedding4u.online | Nền tảng tạo Landing Page cưới** -->
 
 ---
 ## 🌐 Kết nối với mình
@@ -26,5 +28,4 @@
 ---
 
 > “Học chưa bao giờ là đủ” – Giáo Tiến.
-<!-- 🔭 Mình là lập trình viên **Fullstack Engineer**, đồng thời là **Admin** của **Wedding For You - https://wedding4u.online | Nền tảng tạo Landing Page cưới** -->
 
