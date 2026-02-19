@@ -1,4 +1,4 @@
-# Xin chào 👋, mình là Nguyễn Minh Đức
+# Xin chào, mình là Nguyễn Minh Đức 👋
 <!-- 🔭 Mình là lập trình viên **Fullstack Engineer**, đồng thời là **Admin** của **Wedding For You - https://wedding4u.online | Nền tảng tạo Landing Page cưới** -->
 
 ## 🚀 Giới thiệu
