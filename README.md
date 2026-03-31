@@ -14,7 +14,6 @@
 - ⚡ Fun fact: Mình thích tạo UI gọn gàng theo phong cách **neumorphism**  🖌️
 ---
 
-
 ## 🛠️ Công nghệ sử dụng: 
 **Frontend:** Flutter, ReactJs, NextJs HTML/CSS,...  
 **Backend:** Golang, GraphQL, REST API, Node.js, ExpressJs...   
