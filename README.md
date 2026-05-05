@@ -1,7 +1,6 @@
 # Xin chào, mình là Nguyễn Minh Đức - ducit247👋 
 
 
-<!-- 🔭 Mình là lập trình viên. **Fullstack Engineer**, đồng thời là **Admin** của **Wedding For  You - https://wedding4u.online | Nền tảng tạo Landing Page cưới.** -->
 
 ## 🚀 Giới thiệu
 - 🌱 Hiện đang mình làm việc với **Clean Architecture, Flutter Mobile, ReactJs, NextJs, Golang, gRPC, GraphQL, MySQL, PostgreSQL**
@@ -14,6 +13,8 @@
 - Services: https://technovacore.vn - email: info@technovacore.vn 
 - ⚡ Fun fact: Mình thích tạo UI gọn gàng theo phong cách **neumorphism**  🖌️
 ---
+<!-- 🔭 Mình là lập trình viên. **Fullstack Engineer**, đồng thời là **Admin** của **Wedding For  You - https://wedding4u.online | Nền tảng tạo Landing Page cưới.** -->
+
 ## 🛠️ Công nghệ sử dụng: 
 **Frontend:** Flutter, ReactJs, NextJs HTML/CSS,...  
 **Backend:** Golang, GRPC, GraphQL, REST API, Node.js, ExpressJs...   
