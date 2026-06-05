@@ -1,6 +1,5 @@
 # Xin chào, mình là Nguyễn Minh Đức - ducit247👋 
 
-
 ## 🚀 Giới thiệu
 - 🌱 Hiện đang mình làm việc với **Clean Architecture, Flutter Mobile, ReactJs, NextJs, Golang, gRPC, GraphQL, MySQL, PostgreSQL**
 - 👯 Muốn hợp tác trên **các dự án Open Source Web & Mobile**
