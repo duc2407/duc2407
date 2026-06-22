@@ -7,9 +7,6 @@
 - 🤔 Cần sự trợ giúp về **Thiết kế Mobile, Backend mở rộng & CI/CD**
 - 💬 Hỏi mình về **Clean Architecture, Flutter Mobile, ReactJs, NextJs, Golang, gRPC, GraphQL, MySQL, PostgreSQL**
 - ✨ Design **UI/UX với Figma**
-- 📫 Liên hệ: [Email](mailto:ducdev.contact@gmail.com) | [Facebook](https://facebook.com/ducit247)
-- Thiệp cưới online: https://wedding4u.online 
-- Services: https://technovacore.vn - email: info@technovacore.vn 
 - ⚡ Fun fact: Mình thích tạo UI gọn gàng theo phong cách **neumorphism**  🖌️
 ---
 
