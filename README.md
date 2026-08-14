@@ -1,4 +1,4 @@
-  # Xin chào, mình là Nguyễn Minh Đức - ducit247 👋 
+  # Xin chào, mình là Nguyễn Minh Đức - ducit247👋 
 <!-- 🔭 Mình là lập trình viên  **itFullstack Engineer**, đồng thời là **Admin** của **Wedding For You - https://wedding4u.online | Nền tảng tạo Land ingPage cưới.** -->
 
 ## 🚀 Giới thiệu
