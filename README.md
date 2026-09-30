@@ -1,27 +1,45 @@
-  # Xin chào, mình là Nguyễn Minh Đức - ducit247👋 
-<!-- 🔭 Mình là lập trình **Fullstack Engineer** đồng thời là **Admin** của **Wedding For You - https://wedding4u.online | Nền tảng tạo Landing Page cưới ** -->
+# 👋 Xin chào, mình là Nguyễn Minh Đức
 
-## 🚀 Giới thiệu:
-- 🌱 Hiện đang mình làm việc với **Clean Architecture, Flutter Mobile, ReactJs, NextJs, Golang, gRPC, GraphQL, MySQL, PostgreSQL**
-- 👯 Muốn hợp tác trên **các dự án Open Source Web & Mobile**
-- 🤔 Cần sự trợ giúp về **Thiết kế Mobile, Backend mở rộng & CI/CD**
-- 💬 Hỏi mình về **Clean Architecture, Flutter Mobile, ReactJs, NextJs, Golang, gRPC, GraphQL, MySQL, PostgreSQL**
-- ✨ Design **UI/UX với Figma**
-- ⚡ Fun fact: Mình thích tạo UI gọn gàng theo phong cách **neumorphism**  🖌️
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;Flutter+%7C+React+%7C+Next.js;Golang+%7C+gRPC+%7C+GraphQL;Building+clean+%26+scalable+systems" />
+</p>
 
-## 🛠️ Công nghệ sử dụng: 
-**Frontend:** Flutter, ReactJs, NextJs HTML/CSS,...  
-**Backend:** Golang, GRPC, GraphQL, REST API, Node.js, ExpressJs...   
-**Database:** MySQL, PostgreSQL, MongoDB,...
-**DevOps:** K8S, CI/CD, Docker, Railway, Supabase,...
+<p align="center">
+  <b>ducit247</b> · Fullstack Engineer · UI/UX Enthusiast
+</p>
 
 ---
-## 🌐 Kết nối với mình
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/ducit247)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ducdev.contact@gmail.com)  
 
----
-☎️: 0924 240 789
-> “Học chưa bao giờ là đủ” – Giáo Tiến.
+### 🚀 About Me
 
+* 💻 Building **Web & Mobile applications**
+* 🏗️ Interested in **Clean Architecture & scalable systems**
+* 📱 **Flutter · React · Next.js**
+* ⚙️ **Golang · gRPC · GraphQL · REST API**
+* 🗄️ **MySQL · PostgreSQL · MongoDB**
+* ☁️ **Docker · Kubernetes · CI/CD**
+* 🎨 Designing UI/UX with **Figma**
+* 🌱 Always learning & building
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,html,css,go,nodejs,graphql,mysql,postgres,mongodb,docker,kubernetes,git,figma" />
+</p>
+
+### 🌐 Connect
+
+<p align="center">
+  <a href="https://facebook.com/ducit247">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:ducdev.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  ☎️ 0924 240 789
+  <br/>
+  <i>“Học chưa bao giờ là đủ.”</i>
+</p>
