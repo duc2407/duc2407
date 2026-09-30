@@ -1,4 +1,4 @@
-# 👋 Xin chào, mình là Ducit247 - Nguyễn Minh Đức
+# 👋 Hi, i'm Ducit247 - Nguyen Minh Duc
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;Flutter+%7C+React+%7C+Next.js;Golang+%7C+gRPC+%7C+GraphQL;Building+clean+%26+scalable+systems" />
