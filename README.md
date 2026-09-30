@@ -23,9 +23,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,html,css,go,nodejs,graphql,mysql,postgres,mongodb,docker,kubernetes,git,figma" />
-</p>
+<table align="center"> <tr> <td align="center" width="180"> <b>📱 Mobile</b><br/><br/> Flutter · Dart </td> <td align="center" width="180"> <b>🎨 Frontend</b><br/><br/> React · Next.js </td> <td align="center" width="180"> <b>⚙️ Backend</b><br/><br/> Golang · Node.js </td> <td align="center" width="180"> <b>🔌 API</b><br/><br/> gRPC · GraphQL · REST </td> </tr> <tr> <td align="center"> <b>🗄️ Database</b><br/><br/> PostgreSQL · MySQL<br/> MongoDB </td> <td align="center"> <b>☁️ DevOps</b><br/><br/> Docker · Kubernetes </td> <td align="center"> <b>🚀 Cloud</b><br/><br/> Railway · Supabase </td> <td align="center"> <b>🎨 Design</b><br/><br/> Figma · UI/UX </td> </tr> </table>
 
 ### 🌐 Connect
 
