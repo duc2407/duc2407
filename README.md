@@ -21,7 +21,6 @@
 * 🎨 Designing UI/UX with **Figma**
 * 🌱 Always learning & building
 
-### 🛠️ Tech Stack
 
 ### 🛠️ Tech Stack
 
