@@ -23,7 +23,86 @@
 
 ### 🛠️ Tech Stack
 
-<table align="center"> <tr> <td align="center" width="180"> <b>📱 Mobile</b><br/><br/> Flutter · Dart </td> <td align="center" width="180"> <b>🎨 Frontend</b><br/><br/> React · Next.js </td> <td align="center" width="180"> <b>⚙️ Backend</b><br/><br/> Golang · Node.js </td> <td align="center" width="180"> <b>🔌 API</b><br/><br/> gRPC · GraphQL · REST </td> </tr> <tr> <td align="center"> <b>🗄️ Database</b><br/><br/> PostgreSQL · MySQL<br/> MongoDB </td> <td align="center"> <b>☁️ DevOps</b><br/><br/> Docker · Kubernetes </td> <td align="center"> <b>🚀 Cloud</b><br/><br/> Railway · Supabase </td> <td align="center"> <b>🎨 Design</b><br/><br/> Figma · UI/UX </td> </tr> </table>
+### 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=flutter" width="45"/><br/>
+      <sub>Flutter</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="45"/><br/>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br/>
+      <sub>Next.js</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=go" width="45"/><br/>
+      <sub>Golang</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=dart" width="45"/><br/>
+      <sub>Dart</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br/>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=graphql" width="45"/><br/>
+      <sub>GraphQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45"/><br/>
+      <sub>PostgreSQL</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br/>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br/>
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="45"/><br/>
+      <sub>Docker</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="45"/><br/>
+      <sub>Kubernetes</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="45"/><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="45"/><br/>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="45"/><br/>
+      <sub>Figma</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="45"/><br/>
+      <sub>HTML</sub>
+    </td>
+  </tr>
+</table>
+
 
 ### 🌐 Connect
 
